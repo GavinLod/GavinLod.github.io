@@ -34,7 +34,7 @@
             </xs:sequence>
             <!-- Required attribute for Hotel -->
             <xs:attribute name="id" type="xs:string" use="required"/>
-            <!-- Optional attribute for Rating (produces _Rating in JSON if present) -->
+            <!-- Optional attribute for Rating -->
             <xs:attribute name="Rating" type="xs:string" use="optional"/>
           </xs:complexType>
         </xs:element>

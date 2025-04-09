@@ -129,12 +129,4 @@
     <Name>Four Seasons Phoenix</Name>
     <Phone>602-555-9876</Phone>
     <Phone>602-555-6789</Phone>
-    <Address NearstAirport="Sky Habor">
-      <Number>400</Number>
-      <Street>Sun Valley Ln</Street>
-      <City>Phoenix</City>
-      <State>AZ</State>
-      <Zip>85004</Zip>
-    </Address>
-  </Hotel>
-</Hotels>
+    <Address NearstAirport="
