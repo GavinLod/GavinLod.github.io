@@ -1,10 +1,11 @@
-using System;
+﻿using System;
 using System.Xml.Schema;
 using System.Xml;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.IO;
 using System.Collections.Generic;
+using System.Xml.Linq;
 
 /**
  * This template file is created for ASU CSE445 Distributed SW Dev Assignment 4.
@@ -92,7 +93,8 @@ namespace ConsoleApp1
                 doc.Load(xmlUrl);
 
                 //serialize the XML document to JSON text.
-                jsonText = JsonConvert.SerializeXmlNode(doc, Formatting.Indented);
+                jsonText = JsonConvert.SerializeXmlNode(doc, Newtonsoft.Json.Formatting.Indented);
+
 
                 //parse the JSON into a JObject for modification.
                 JObject jObj = JObject.Parse(jsonText);
