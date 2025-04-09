@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
-  <!-- The example hotel from the assignment's snippet -->
+  <!-- Matches assignment snippet exactly for the first hotel -->
   <Hotel id="H001" Rating="4.2">
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -43,7 +43,7 @@
   <Hotel id="H004" Rating="4.0">
     <Name>Hyatt Regency</Name>
     <Phone>480-555-0001</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>45</Number>
       <Street>Airport Blvd</Street>
       <City>Tempe</City>
@@ -68,7 +68,7 @@
     <Name>Embassy Suites</Name>
     <Phone>480-555-3333</Phone>
     <Phone>480-555-3334</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>500</Number>
       <Street>Convention Center Dr</Street>
       <City>Tempe</City>
@@ -92,7 +92,7 @@
   <Hotel id="H008" Rating="3.9">
     <Name>Hotel Valley Ho</Name>
     <Phone>480-555-8888</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>210</Number>
       <Street>Paradise Dr</Street>
       <City>Tempe</City>
@@ -129,4 +129,12 @@
     <Name>Four Seasons Phoenix</Name>
     <Phone>602-555-9876</Phone>
     <Phone>602-555-6789</Phone>
-    <Address NearstAirport="
+    <Address NearstAirport="Sky Harbor">
+      <Number>400</Number>
+      <Street>Sun Valley Ln</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+</Hotels>

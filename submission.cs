@@ -19,8 +19,8 @@ namespace ConsoleApp1
     {
 
         public static string xmlURL = "https://GavinLod.github.io/Hotels.xml";
-        public static string xmlErrorURL = "https://Gavinlod.github.io/HotelsErrors.xml";
-        public static string xsdURL = "https://Gavinlod.github.io/Hotels.xsd";
+        public static string xmlErrorURL = "https://GavinLod.github.io/HotelsErrors.xml";
+        public static string xsdURL = "https://GavinLod.github.io/Hotels.xsd";
 
         public static void Main(string[] args)
         {

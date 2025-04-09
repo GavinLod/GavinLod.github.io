@@ -7,9 +7,9 @@
     <Name>Duplicate Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
-      <Street>E 7th St</Street>
+      <Street>E.7th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
@@ -46,7 +46,7 @@
   <Hotel id="H004" Rating="4.0">
     <Name>Hyatt Regency</Name>
     <Phone>480-555-0001</Phone>
-    <Address NearstAirport="Sky Habor">
+    <Address NearstAirport="Sky Harbor">
       <Number>45</Number>
       <Street>Airport Blvd</Street>
       <City>Tempe</City>
