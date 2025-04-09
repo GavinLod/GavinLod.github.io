@@ -34,7 +34,7 @@ namespace ConsoleApp1
             Console.WriteLine(result);
             Console.WriteLine();
 
-            result = Xml2Json(xmlURL);
+            result = Xml2Json("Hotels.xml");
             Console.WriteLine("Converted JSON:");
             Console.WriteLine(result);
         }
